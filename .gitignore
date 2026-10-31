@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Database Credentials & Secrets
+config.ini
+secrets.json
+*.env
+
+# Large files / OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.tmp
+
+# SQLite Database Binaries
+*.db
+*.sqlite
